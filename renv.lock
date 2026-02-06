@@ -4,7 +4,11 @@
     "Repositories": [
       {
         "Name": "CRAN",
+<<<<<<< HEAD
         "URL": "https://packagemanager.posit.co/cran/latest"
+=======
+        "URL": "https://cloud.r-project.org"
+>>>>>>> 55ffb08bb96011e2124f922c5ae5f5da7a21c2e5
       }
     ]
   },

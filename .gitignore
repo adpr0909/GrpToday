@@ -20,7 +20,13 @@
 
 # RStudio files
 .Rproj.user/
+<<<<<<< HEAD
 *.Rproj
+=======
+
+/renv
+
+>>>>>>> 55ffb08bb96011e2124f922c5ae5f5da7a21c2e5
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
